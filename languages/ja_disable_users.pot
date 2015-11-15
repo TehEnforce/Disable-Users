@@ -13,17 +13,17 @@ msgstr ""
 "X-Poedit-SearchPath-0: ..\n"
 
 #: ../init.php:76
-msgid " Disable User Account"
+msgid " Blokkeer Gebruiker"
 msgstr ""
 
 #: ../init.php:80
-msgid "If checked, the user cannot login with this account."
+msgid "Als dit ingecheckt staat is de gebruiker geblokkeerd"
 msgstr ""
 
 #: ../init.php:152
-msgid "Account disabled"
+msgid "Account Geblokkeerd"
 msgstr ""
 
 #: ../init.php:166 ../init.php:183
-msgid "Disabled"
+msgid "Geblokkeerd"
 msgstr ""
